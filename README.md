@@ -1,2 +1,3 @@
-# -strawberry-updat
- strawberry-updat
+# Strawberry Update
+
+Описание проекта strawberry-update.
